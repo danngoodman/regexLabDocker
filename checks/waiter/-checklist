@@ -1,0 +1,14 @@
+[section 1, question 1] [grep 'rabbit' watership_down.txt] 99f4b987e23951c34fb7b745d237f0b7 incomplete
+[section 1, question 2] [grep 'Hazel' watership_down_2.txt] 7665df4c84a9cae5bfed454cacd9c819 incomplete
+[section 1, question 3] [grep 'can' watership_down.txt] d249027997fa167afee45f46963a6962 incomplete
+[section 1, question 4] [grep 'the' watership_down.txt] 069a184cfb17f2af5c21ee8bd8db7f1d incomplete
+[section 1, question 5] [grep '^The' watership_down.txt] 7caecb008b74a71b704bcc2320505057 incomplete
+[section 1, question 6] [grep ^E watership_down_2.txt ] 476d47f6cfdc7338024b981ec4099584 incomplete
+[section 1, question 7] [grep 'long$' example.csv] 40fd708450f0b1ce76ef258031902677 incomplete
+[section 1, question 8] [grep '^C1,string$' example.csv] 0d793e9cfa7cdf00e28340e799e1b16e incomplete
+[section 1, question 9] [grep '^...' watership_down.txt ] 33bf20fbcff452494f3b31c9b1d4ace0 incomplete
+[section 1, question 10] [grep '...$' example.csv] c0a2e620a602af506a579414cf54411a incomplete
+[section 1, question 11] [grep '\.' watership_down_2.txt ] 0e4d25b881d139b9c5e64c3e0ed7c06d incomplete
+[section 1, question 12] [grep 't..' watership_down.txt ] ba40a8e9d28b64b5a6ac74ff486af89f incomplete
+[section 1, lab 1] []
+[section 1, lab 2] []

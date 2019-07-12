@@ -1,0 +1,109 @@
+Hazel watership_down.txt
+Fiver watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel ../lab01-grep_line_matching/
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh 
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh can watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh the watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^The watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^The watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^A alias.sh lesson watership_down.txt watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^T alias.sh lesson watership_down.txt watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^E alias.sh lesson watership_down.txt watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^E watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh .$ watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh -o ......$ watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh -o ......$ watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh -o peace\.$ watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh -o peace\.$ watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh -o peace watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh peace watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh peace\.$ watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh peace\. watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh peace\. watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh peace\. watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh peace\.$ watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh long\.$ watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh long,$ example.avro
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh long$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^C1,string$ example.avro
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^C1,string$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^C1,string$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^... watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ...$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ...$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh \. watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh t.. watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh can watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh the watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh can watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh the watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^The watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^E watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh long$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^C1,string$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^... watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ...$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh \. watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh t.. watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh can watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh the watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^The watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^E watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh long$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^C1,string$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^... watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ...$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh \. watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh t.. watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh can watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh the watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^The watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^E watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh long$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^C1,string$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^... watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ...$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh \. watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh t.. watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^>
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^>
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^>
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh Hazel watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh can watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh the watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh The watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^The watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^E watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^C1,string$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh long$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ^... watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh ...$ example.csv
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh \. watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh t.. watership_down_2.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh t.. watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh if grep_and_check.sh
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh " watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh " watership_down.txt
