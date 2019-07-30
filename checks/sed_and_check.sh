@@ -14,13 +14,3 @@ then
   echo -e "!\e[39m"
 fi
 "${checks_dir}/send_update.sh"
-
-(echo -n "[ sed '$1'"
-shift
-while [ ! -z "$1" ]
-do
-  echo -n " $1"
-  shift
-done
-echo -n " ] $md5sum") 
-echo ""
