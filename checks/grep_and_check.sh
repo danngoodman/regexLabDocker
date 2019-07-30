@@ -1,5 +1,5 @@
 #!/bin/bash
-checks_dir="${PREPREFIX}/home/DG044579/regexLabDocker/checks"
+checks_dir="/bin/checks"
 grepSolution=$(grep --color="always" "$@")
 echo "${grepSolution}"
 echo "$0 $*" >> "${checks_dir}/command_history"
