@@ -307,3 +307,62 @@ Fiver watership_down.txt
 /home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/\([A-Za-z]\)\([A-Za-z]\)\?/\L\1\U\2/g people_remedy_fields
 /home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/\(in\)\?complete$// checklist
 /home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/\(in\)\?complete$// checklist -i
+/home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/grep_and_check.sh section 1 ../checks/checklist
+/home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/.*[grep/grep/
+/home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/grep_and_check.sh section 1 ../checks/checklist
+/home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/grep_and_check.sh section 1 ../checks/checklist
+/home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/grep_and_check.sh section 1 ../checks/checklist
+/home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/grep_and_check.sh section 1 ../checks/checklist
+/home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/grep_and_check.sh section 1 ../checks/checklist
+/home/anon/Drives/c_drive/cygwin64/home/DG044579/regexLabDocker/checks/grep_and_check.sh section 1 ../checks/checklist
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh NR>1 people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh NR>1 ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR>1{print} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR>1{print} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR>1{print $1,$3} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}{print $1,$3} ia_people.csv
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}{print $1,$3} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR>1{print $1,$3} ia_people.csv
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {print $2} nge-2019-02-02-01.log
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh $3~/ERROR/ nge-2019-02-02-01.log
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh $2~/ERROR/ nge-2019-02-02-01.log
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh $2~/ERROR/ nge-2019-02-02-01.log
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh $2~/ERROR/{$2=:;print $0} nge-2019-02-02-01.log
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh $2~/ERROR/{$2=":";print $0} nge-2019-02-02-01.log
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh $2~/ERROR/{$1=$1":";$2="";print $0} nge-2019-02-02-01.log
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR>1{$1=gensub(/([^ ]*) +([^ ]*)/,"\"\\2,\\1\"","g",$1);print $1,$3} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR>1{$1=gensub(/([^ ]*) +([^ ]*)/,"\"\\2,\\1\"","g",$1);print $0} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR==1{print}NR>1{$1=gensub(/([^ ]*) +([^ ]*)/,"\"\\2,\\1\"","g",$1);print $0} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR==1{print}NR>1{$1=gensub(/([^ ]*) +(.*)/,"\"\\2,\\1\"","g",$1);print $0} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR==1{print}NR>1{$1=gensub(/(.*) +[^ ]*)/,"\"\\2,\\1\"","g",$1);print $0} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh BEGIN{FS=",";OFS=","}NR==1{print}NR>1{$1=gensub(/(.*) +([^ ]*)/,"\"\\2,\\1\"","g",$1);print $0} ia_people.csv
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {FS=",";OFS=","}(NR>1&&$4=="Vijay Sundareshwaran"){print} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {FS=",";OFS=","}(NR>1&&$4=="Vijay Sundareshwaran"){print $1,$2,$3} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {FS=",";OFS=","}(NR>1&&$3 ~ /Team Lead/){print $1,$2} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {FS=",";OFS=","}(NR>1&&$3 ~ /Solution Designer/){print $1,$2} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {FS=",";OFS=","}(NR>1&&$3 ~ /Engineer/){print $1,$2} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {FS=",";OFS=","}(NR>1&&$3 ~ /Engineer\b/){print $1,$2} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {FS=",";OFS=","}(NR>1&&$3 ~ /\bEngineer\b/){print $1,$2} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh {FS=",";OFS=","}(NR>1&&$3 ~ /Engineer\>/){print $1,$2} ia_people.csv
+/home/DG044579/regexLabDocker/checks/awk_and_check.sh ($2~/DEBUG/ && $0 ~ /SuccessMessage/) nge-2019-02-02-01.log
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh AddImpactedAreas
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh <wsdl:operation
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh <wsdl:operation
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh <wsdl:operation
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/.*name="//;s/".*//
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/sed_and_check.sh s/[^a-z0-9_=]/_/g
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
+/home/DG044579/regexLabDocker/checks/grep_and_check.sh rabbit watership_down.txt
